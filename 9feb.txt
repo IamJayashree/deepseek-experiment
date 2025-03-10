@@ -1,0 +1,4 @@
+    1  huggingface-cli login
+    2  git config --global credential.helper store
+    3  huggingface-cli login
+    4  history >9feb.txt
